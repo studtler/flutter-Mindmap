@@ -20,4 +20,4 @@ Sample concept:
 Current design (will change):
 
 <img width="424" alt="Screenshot 2024-09-24 at 10 04 32 PM" src="https://github.com/user-attachments/assets/3cc724b2-d6a0-4977-97ce-55962a71f3c2">
->>>>>>> origin/main
+
