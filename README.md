@@ -15,3 +15,7 @@ Concept inspired by: https://clickup.com/blog/mind-map-vs-concept-map/
 Sample concept: 
 
 <img width="434" alt="Screenshot 2024-09-24 at 10 02 00 PM" src="https://github.com/user-attachments/assets/0cca4ae8-a4a2-4b91-9d05-5f6d731491a6">
+
+Current design (will change):
+
+<img width="424" alt="Screenshot 2024-09-24 at 10 04 32 PM" src="https://github.com/user-attachments/assets/3cc724b2-d6a0-4977-97ce-55962a71f3c2">
