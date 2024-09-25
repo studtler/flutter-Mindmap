@@ -33,7 +33,10 @@ class _VerticalTreeWithResetState extends State<VerticalTreeWithReset> {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        TreeNode(key: rootNodeKey, isRoot: true),
+        Align(
+          alignment: Alignment.topCenter,
+          child: TreeNode(key: rootNodeKey, isRoot: true),
+        ),
         Expanded(
           child: SingleChildScrollView(
             child: Padding(
@@ -86,7 +89,7 @@ class TreeNodeState extends State<TreeNode> {
 
   Widget buildChildren() {
     return Column(
-      crossAxisAlignment: CrossAxisAlignment.stretch,
+      crossAxisAlignment: CrossAxisAlignment.center,
       children: children.map((child) {
         return Column(
           children: [
